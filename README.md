@@ -11,5 +11,5 @@
 
 # Start the App
 In two terminal
-1. cd client , then run npm run start command
-2. cd server , then run npm start
+1. cd client , then run (npm run start) command
+2. cd server , then run (npm start)
